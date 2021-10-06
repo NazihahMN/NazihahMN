@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NazihahMN
 - 👀 I’m interested in Digital Marketing
 - 🌱 I’m a Business Administration (Marketing) graduate
-- 💞️ I'm so interested in sports & learning new stuff for my personal growth
+- 💞️ I enjoy playing sports & learning new stuff for my personal growth
 - 📫 I can be reached out at nazihahmohdnazrii@gmail.com
 
 <!---
