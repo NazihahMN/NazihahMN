@@ -8,7 +8,7 @@ I love learning new knowledge & currently upskilling myself in both technical an
 
 *   🌍  I'm based in Malaysia
 *   ✉️  You can contact me at [nazihahmohdnazri@gmail.com](mailto:nazihahmohdnazri@gmail.com)
-*   🧠  I'm learning Full Stack Web Development, PowerBI & Excel
+*   🧠  I'm learning Full Stack Development, PowerBI & Excel
 *   🤝  I'm open to collaborating on Website Development, Hackathon or Datathon!
 *   ⚡  I love sports & travel!
 
